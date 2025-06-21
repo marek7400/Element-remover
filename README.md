@@ -1,4 +1,4 @@
-# Element remover - Chrome extension.
+# Element remover (temporary) - Chrome extension.
 Remove elements from page (work with iframe)
 
 (not work on some pages ex. Google Maps, but if you use bokmarklet works OK(go to bookmarklets Remove Element v3)) 
