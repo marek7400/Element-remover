@@ -1,5 +1,5 @@
 # Element remover (temporary) - Chrome extension.
-Remove elements from page (work with iframe)
+Remove any elements from page (work with iframe)
 
 Exit - press "q" key
 
