@@ -1,3 +1,5 @@
+#IN PROGRESS...
+
 # Element remover - Chrome extension.
 Remove elements from page (work with iframe)
 Works also on Google Street View.
