@@ -7,4 +7,4 @@ Exit - press "q" key
 Search unclickable element - press "d" key and "del" key to delete. (only bokmarklet)
 Undo - press "ctrl+z" keys
 
-![er1.jpg](images/er1.jpg)
+![er1.jpg](images/er1.png)
