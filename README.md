@@ -27,6 +27,6 @@ BEFORE:
 ![before.jpg](images/before.png)
 
 
-AFTER:
+AFTER: (If you see POI icons (restaurants, shops, etc.), do not move the mouse and wait a moment, and they will disappear on their own)
 
 ![er2.jpg](images/er2.png)
