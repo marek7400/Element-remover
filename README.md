@@ -27,7 +27,8 @@ BEFORE:
 ![before.jpg](images/before.png)
 
 
-AFTER: (If you see POI icons (restaurants, shops, etc.), do not move the mouse and wait a moment, and they will disappear on their own).   
+AFTER:   
+(If you see POI icons (restaurants, shops, etc.), do not move the mouse and wait a moment, and they will disappear on their own).   
 (the Google logo cannot be removed)
 
 ![er2.jpg](images/er2.png)
