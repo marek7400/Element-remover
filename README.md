@@ -1,6 +1,6 @@
 # Element remover (temporary) - Chrome extension.
 Remove any elements from page (work with iframe)  
-(It can be useful, for example, when removing elements BEFORE printing - in order to save ink in the printer)
+(It can be useful, for example, when removing elements BEFORE printing - in order to save ink in the printer or help remove elements from the page before taking a screenshot)
 
 Exit - press "q" key
 
