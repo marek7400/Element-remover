@@ -7,6 +7,8 @@ Undo - press "ctrl+z" keys
 
 Select mouse on element (red box) - click to DELETE or use "Del" key (good option if element is non-clickable/blocked)
 
+example: (iframe window element)
+
 ![er1.jpg](images/er1.png)
 
 
