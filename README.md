@@ -20,4 +20,11 @@ example:
 
 Google Street View - remove elements
 
+BEFORE:
+
+![before.jpg](images/before.png)
+
+
+AFTER:
+
 ![er2.jpg](images/er2.png)
